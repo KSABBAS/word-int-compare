@@ -1,0 +1,4 @@
+in this game 
+two users enter a word 
+each letter has it's own value 
+the pro gramme sums all the letters value and the word that his the bigger value its user wins 
